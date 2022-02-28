@@ -1,0 +1,107 @@
+@media only screen and (max-width:576px){
+	.banner_slider{
+		padding: 10px 0 90px 0 ;
+	}
+
+
+.banner_content h3{
+	font-size: 30px;
+}
+
+.banner_content h1{
+	font-size: 37px;
+}
+
+.banner_img{
+	margin-top: 100px;
+}
+
+.big_latest_img{
+	width: 50%;
+	margin-bottom: 30px;
+}
+
+.mini_new{
+	padding: 20px 35px;
+}
+
+
+.card_img{
+	height:80%;
+}
+
+
+
+.sofa{
+	height: 640px;
+	margin: 80px 0;
+	background-position: left;
+}
+
+
+.sofa::before{
+	width: 35%;
+	height: 640px;
+} 
+.sofa_content{
+	margin-top: 150px;
+}
+
+.sofa_content h1{
+	font-size: 38px;
+	line-height: 48px;
+	margin-bottom: 20px;
+}
+.sofa_content p{
+	font-size: 17px;
+	line-height: 28px;
+	width: 100%;
+	padding-right: 10px;
+
+}
+
+
+/* sofa collection end */
+
+
+.card-body ul{
+
+	margin-bottom: 15px !important;
+}
+
+
+.blog_post{
+	padding: 20px 35px;
+}
+
+
+
+.post_content button{
+	margin-bottom: 15px;
+}
+
+.partner_img{
+	margin: 50px 0;
+}
+
+.partner_img{
+	padding: 10px 10px 10px 70px !important;
+}
+
+
+.footer{
+	padding: 0 35px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+}
